@@ -6,7 +6,7 @@ console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is eq
 
 lub
 
-var a = prompt"podaj a", h = prompt"podaj h", triangleArea;
+var a = prompt(podaj a), h = prompt(podaj h), triangleArea;
 
 triangleArea = a*h/2;
 
